@@ -1,0 +1,2 @@
+# ysb-artifactory
+YSB Artifactory
